@@ -1,7 +1,7 @@
 # word_search
 Searches a dictionary of words to find one that meets a given criteria.
 
-The criteria of the word "description":
+The criteria to describe the word:
 - the length of the "description" is the length of the word,
 - any letters in the "description" are in the word and in they same location of the word as it is in the "description,"
 - unknown letters in the "description" are represented by numbers,
