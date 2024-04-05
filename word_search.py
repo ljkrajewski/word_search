@@ -12,6 +12,8 @@ Steps:
 ### Main routine ###
 def main():
   wordlistFile = "/location/of/wordlist.txt"
+  user_input = input("Enter a string: ")
+  inputLength = len(user_input)
   firstFilterList = firstFilterList(wordlistFile, inputLength)
 
 ### Filter_Words_By_Length ###
